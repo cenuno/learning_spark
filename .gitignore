@@ -1,2 +1,8 @@
+# ignore all data files
+*.csv
+*.zip
+
+
+# default scala files to be ignored via GitHub
 *.class
 *.log
