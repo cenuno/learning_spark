@@ -1,0 +1,6 @@
+# Linkage
+
+> Data come in different shapes, sizes, and quality, creating scenarios that must be considered in building a linkage algorithm. For instance, demographic information often contains typographical and data entry errors, such as transposed Social Security Number (SSN) digits and misspellings. An individual’s information sometimes changes over time, with life changes such as marriage or moving leading to changes in one’s name or address. People sometimes deliberately report false information to defraud insurance providers or to avoid detection. Twins can have very similar information. Finally, the spouses and/or children of the family’s primary health insurance subscriber sometimes use the primary subscriber’s information. These idiosyncrasies are what make data linkage difficult, so the more work done upfront to clean and standardize the data, the better the chances of a successful linkage. - Dusetzina SB, Tyree S, Meyer AM, et al. Linking Data for Health Services Research: A Framework and Instructional Guide [Internet]. Rockville (MD): Agency for Healthcare Research and Quality (US); 2014 Sep. 4, An Overview of Record Linkage Methods. Available from: https://www.ncbi.nlm.nih.gov/books/NBK253312/
+
+
+
